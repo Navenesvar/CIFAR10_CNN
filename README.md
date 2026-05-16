@@ -195,18 +195,6 @@ https://cifar10cnn-laccbhsvifex5wpcu9pzci.streamlit.app/
 
 ---
 
-## Future Improvements
-
-- Grad-CAM visualization
-- Top-3 predictions
-- Webcam support
-- Residual CNN blocks
-- Transfer Learning
-- Docker deployment
-- Mobile responsive UI
-
----
-
 ## Resume Description
 
 Developed and deployed a deep learning-based image classification web application using PyTorch and Streamlit. Built an optimized custom CNN architecture with data augmentation, dropout, batch normalization, and learning rate scheduling to achieve over 90% accuracy on the CIFAR-10 dataset.
