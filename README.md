@@ -135,8 +135,8 @@ Output (10 Classes)
 
 | Metric | Result |
 |---|---|
-| Training Accuracy | 95%+ |
-| Test Accuracy | 90%+ |
+| Training Accuracy | 90% |
+| Test Accuracy | 90% |
 
 ---
 
